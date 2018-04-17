@@ -1,0 +1,1 @@
+web: java -jar build/server/jetty-runner.jar --port 8080 build/libs/Gradle.war
